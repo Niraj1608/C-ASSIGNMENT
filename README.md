@@ -10,7 +10,7 @@ Note: Click on Module Number to view Code Solution :)
 
 
 
-## [ Practical No. 1 (Overview of C)] = (https://github.com/Niraj1608/C-ASSIGNMENT/tree/main/Practical%20No.%201%20(Overview%20of%20C))
+## [ Practical No. 1 (Overview of C)](https://github.com/Niraj1608/C-ASSIGNMENT/tree/main/Practical%20No.%201%20(Overview%20of%20C))
 
 1. Write a simple program for printing "Hello World" on the user screen.
 

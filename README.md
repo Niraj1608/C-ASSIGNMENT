@@ -299,7 +299,7 @@ second string into the first string (i.e substring).
 
 11. Write a program to accept a string from user and put the first character of the word at the end of the word and add one extra character 'X' at the end of each word. This is my Favourite Lecture → hisTX six ymX avouriteFX ectureLX.
 
-## Practical No. 8 (User-defined Functions)
+## [Practical No. 8 (User-defined Functions)](https://github.com/Niraj1608/C-ASSIGNMENT/tree/main/Practical%20No.%208%20(User-defined%20Functions))
 
 1. Write a program to add two numbers using user-defined function.
 
@@ -325,7 +325,7 @@ two numbers. 7. Write a user-defined function prime () that return 1 if its argu
 
 13. Declare a global variable and create a function for counter of that variable in file "file1.c". Also create another C file, "file2.c" to use the function and variable from "file1.c".
 
-## Practical No. 9 (Structures & Unions)
+## [Practical No. 9 (Structures & Unions)](https://github.com/Niraj1608/C-ASSIGNMENT/tree/main/Practical%20No.%209%20(Structures%20%26%20Unions))
 
 1. Write a program to read student roll no., name and marks of 5 subjects and print student information on screen having percentage greater than 70. Use typedef to declare the structure variables.
 
@@ -353,7 +353,7 @@ b. Print out hotels with room charges less than the given value.
 
 c. Print out name of hotels in sorted order of their average room charge.
 
-## Practical No. 10 (Pointers)
+## [Practical No. 10 (Pointers)](https://github.com/Niraj1608/C-ASSIGNMENT/tree/main/Practical%20No.%2010%20(Pointers))
 
 1. Write a program to print address and values of different data type variables
 

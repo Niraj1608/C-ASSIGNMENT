@@ -125,7 +125,7 @@ Marks  Grade
 0-34 Fail
 
 
-## Practical No. 5 (Decision Making & Looping)
+## [Practical No. 5 (Decision Making & Looping)](https://github.com/Niraj1608/C-ASSIGNMENT/tree/main/Practical%20No.%205%20(Decision%20Making%20%26%20Looping))
 
 1. Write a program to print first N natural nos. and print their sum and average.
 

@@ -257,7 +257,7 @@ Marks  Grade
 
 12. Write a program to reverse a given number
 
-## Practical No. 7 (Character Arrays & Strings)
+## [Practical No. 7 (Character Arrays & Strings)](https://github.com/Niraj1608/C-ASSIGNMENT/tree/main/Practical%20No.%207%20(Character%20Arrays%20%26%20Strings))
 
 1. Write a program to find the length of the given string without using any functions.
 

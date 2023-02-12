@@ -70,7 +70,7 @@ calculate its area, perimeter and diagonal. [Area = X*Y, Perimeter = 2(X + Y) an
 
 8. Write a program to find compound interest and amount payable.
 
-## Practical No. 3 (Operators & Expressions)
+## [Practical No. 3 (Operators & Expressions)](https://github.com/Niraj1608/C-ASSIGNMENT/tree/main/Practical%20No.%203%20(Operators%20%26%20Expressions))
 
 1. Write a program to find the sum of the digits of a 3-digit integer constant.
 

@@ -377,5 +377,4 @@ c. Print out name of hotels in sorted order of their average room charge.
 
    memory. (Call by reference).
    
-# Made with ❤️ by 
-Niraj Parmar and Jeel Patel
+### Made with ❤️ by [Niraj Parmar](https://github.com/Niraj1608) and [Jeel Patel](https://github.com/iamj33l)

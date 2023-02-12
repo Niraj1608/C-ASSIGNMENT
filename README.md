@@ -50,7 +50,7 @@ calculate its area, perimeter and diagonal. [Area = X*Y, Perimeter = 2(X + Y) an
 
 10. Write a program for solution of quadratic equation.
 
-## Practical No. 2 (Constants, Variables & Data Types)
+## [Practical No. 2 (Constants, Variables & Data Types)](https://github.com/Niraj1608/C-ASSIGNMENT/tree/main/Practical%20No.%202%20(Constants%2C%20Variables%20%26%20Data%20Types))
 
 1. Write a program to interchange/swap values of two variables using a third variable. 
 

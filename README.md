@@ -235,7 +235,7 @@ Marks  Grade
 
          123454321
     
-## Practical No. 6 (Arrays)
+## [Practical No. 6 (Arrays)](https://github.com/Niraj1608/C-ASSIGNMENT/tree/main/Practical%20No.%206%20(Arrays))
 
 1. Write a program to find minimum and maximum of the given array. 2. Write a program to add a new element into the array at the specified position.
 

@@ -90,7 +90,7 @@ calculate its area, perimeter and diagonal. [Area = X*Y, Perimeter = 2(X + Y) an
 
    X++ where X = 5 and Y = 2
 
-## Practical No. 4 (Decision Making & Branching)
+## [Practical No. 4 (Decision Making & Branching)](https://github.com/Niraj1608/C-ASSIGNMENT/tree/main/Practical%20No.%204%20(Decision%20Making%20%26%20Branching))
 
 Practical No. 4 (Decision Making & Branching)
 
